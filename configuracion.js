@@ -20,9 +20,9 @@ import { en, es, pt } from "./lib/idiomas/total-idiomas.js";
 import uploadFile from "./lib/uploadFile.js";
 import uploadImage from "./lib/uploadImage.js";
 //cambia los números que sean propietarios
-global.owner = [
+global.owner = ["593979333577"]
 /*╔══════════════════╗*/
-/*║ ❒*/ ["5218442286089", "🔰𝐃𝐈𝐄𝐆𝐎-𝐂𝐑𝐄𝐀𝐃𝐎𝐑🔰", true],
+/*║ ❒*/ ["593979333577", "🔰𝐃𝐈𝐄𝐆𝐎-𝐂𝐑𝐄𝐀𝐃𝐎𝐑🔰", true],
 /*║ ❒*/ ["51993138466"],
 /*║ ❒*/ ["573184314110"],
 /*║ ❒*/ ["50246028932"],
